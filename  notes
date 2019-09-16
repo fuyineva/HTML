@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html> // declaration html 5
+
+<html lang="en">  //language English 
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>  //website name 
+</head>
+<body>
+	hellow world   //content
+	<h1> content </h1> size of content from h1 to h6, h1 is largest.
+	<p> is paragraph. in <p> <\p> words will be in a paragraph , and out of the <p> will
+	     be in a new line
+	<a> is superlink to a website 
+	<a href = "www.google.com"> google </a>
+	<img src="html_image.png"> // insert a image
+</body>
+</html>
