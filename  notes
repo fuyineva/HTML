@@ -15,5 +15,7 @@
 	<a> is superlink to a website 
 	<a href = "www.google.com"> google </a>
 	<img src="html_image.png"> // insert a image
+
+	<br /> empty tag
 </body>
 </html>
