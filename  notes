@@ -17,5 +17,17 @@
 	<img src="html_image.png"> // insert a image
 
 	<br /> empty tag
-</body>
+</body>:bgcolor //backgroud color
 </html>
+
+
+HTML attribute
+
+<h1>:align 对其方式
+</body>:bgcolor //backgroud color
+<a>: target 在何处打开链接
+
+class: class name of the element 
+id : unique id of the element
+style : element style
+title
